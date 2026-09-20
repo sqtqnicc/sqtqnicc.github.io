@@ -1,5 +1,5 @@
 {
-"updatedAt": "2026-09-19",
+"updatedAt": "2026-09-20",
 "items": [
 {"id":"traveler-s-gun","name":"Traveler's Gun","category":"Godly","supreme":5200,"mm2":5350,"demand":5,"rarity":5,"trend":"Stable","change":-100,"changePct":-1.9,"aliases":["trav gun","tg","travelers gun"]},
 {"id":"evergun","name":"Evergun","category":"Godly","supreme":3450,"mm2":3250,"demand":5,"rarity":4,"trend":"Stable","change":-25,"changePct":-0.7},
@@ -214,7 +214,7 @@
 {"id":"chroma-beach-set","name":"Chroma Beach Set","category":"Set","supreme":2850,"mm2":null,"demand":5,"rarity":4,"trend":"Underpaid For","change":-100,"changePct":-3.4,"aliases":["cbeach","chroma beach"],"range":[2650,2850]},
 {"id":"chroma-sweet-set","name":"Chroma Sweet Set","category":"Set","supreme":3500,"mm2":null,"demand":5,"rarity":4,"trend":"Stable","change":-100,"changePct":-2.8},
 {"id":"traveler-s-set","name":"Traveler's Set","category":"Set","supreme":13300,"mm2":null,"demand":5,"rarity":5,"trend":"Stable","change":-100,"changePct":-0.7},
-{"id":"ever-set","name":"Ever Set","category":"Set","supreme":5950,"mm2":null,"demand":5,"rarity":4,"trend":"Stable","change":-50,"changePct":-0.8,"range":[5900,5950]},
+{"id":"ever-set","name":"Ever Set","category":"Set","supreme":5950,"mm2":null,"demand":5,"rarity":4,"trend":null,"change":-50,"changePct":-0.8,"range":[5900,5950]},
 {"id":"celestial-set","name":"Celestial Set","category":"Set","supreme":5250,"mm2":null,"demand":5,"rarity":4,"trend":null,"change":-200,"changePct":-3.7,"range":[5200,5250]},
 {"id":"alien-set","name":"Alien Set","category":"Set","supreme":3975,"mm2":null,"demand":6,"rarity":4,"trend":"Doing Well","change":-25,"changePct":-0.6,"range":[3975,4075]},
 {"id":"dark-set","name":"Dark Set","category":"Set","supreme":3575,"mm2":null,"demand":6,"rarity":4,"trend":"Stable","change":50,"changePct":1.4},
