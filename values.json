@@ -317,6 +317,7 @@
 {"id":"wrapping-paper-set","name":"Wrapping Paper Set","category":"Set","supreme":14,"mm2":null,"demand":1,"rarity":3,"trend":"Stable","change":-2,"changePct":-12.5},
 {"id":"dynamic-tier-small-set-107","name":") Dynamic Tier Small Set (107)","category":"Set","supreme":1270,"mm2":null,"demand":4,"rarity":4,"trend":"Fluctuating","range":[1220,1320],"change":-5,"changePct":-0.4},
 {"id":"small-set-103","name":"Small Set (103)","category":"Set","supreme":1235,"mm2":null,"demand":4,"rarity":4,"trend":"Fluctuating","range":[1185,1285],"change":-5,"changePct":-0.4},
-{"id":"chroma-weapon-set","name":"Chroma Weapon Set","category":"Set","supreme":535,"mm2":null,"demand":1,"rarity":2,"trend":"Stable","change":-10,"changePct":-1.8}
+{"id":"chroma-weapon-set","name":"Chroma Weapon Set","category":"Set","supreme":535,"mm2":null,"demand":1,"rarity":2,"trend":"Stable","change":-10,"changePct":-1.8},
+{"id":"retro-set","name":"Retro Set","category":"Set","supreme":1270,"mm2":null,"demand":4,"rarity":4,"trend":"Fluctuating","range":[1220,1320],"change":-5,"changePct":-0.4}
 ]
 }
